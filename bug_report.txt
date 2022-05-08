@@ -1,9 +1,19 @@
-Не работает кнопка отправки заказа.
-Как воспроизвести?
-1. Открыть сайт.
-2. Нажать по ссылке.
-3. Пролистать до поля.
-4. Ввести значение в поле.
-5. Попытаться нажать кнопку отправки заказа.
-Фактический результат: кнопка неактивна.
-Ожидаемый результат: кнопка нажимается, можно сделать заказ.
+Progect: Progect X
+
+Assigned To: Oleg Butsia
+
+Priority: Medium
+
+Found in: Chrome
+Version: 2.0
+
+Tittle: PM Helper - Incorrect project state in Project viewing mode
+
+Discription: 1. Choose a project and click Edit button
+             2. Change the status of the project 
+             3. Click Save changes
+             4. Click Project Viewing page
+             
+Result: the status is not renewed
+
+Expected result: the status is renewed             
